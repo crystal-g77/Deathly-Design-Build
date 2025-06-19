@@ -1,5 +1,6 @@
-
-![logo](https://github.com/user-attachments/assets/cd52742e-d361-4d9d-b162-02e64e9e8898)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cd52742e-d361-4d9d-b162-02e64e9e8898" width="200" style="margin: 0 auto;"/>
+</p>
 
 # Deathly-Design
 A PC game where players can build their monster by choosing which upgrades and weapons they want to equip. And then take their monster into the world and wreak havoc by destroying everything.
