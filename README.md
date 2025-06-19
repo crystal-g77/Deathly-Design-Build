@@ -25,8 +25,3 @@ These were specifically chosen to inspire choices leading towards goofy yet horr
 <img src="https://github.com/user-attachments/assets/821c4e61-58fa-48a4-ab3e-ba0834e7357b" width="500"/>
 <img src="https://github.com/user-attachments/assets/59093296-4d68-41c8-9989-61142ab693a5" width="500"/>
 <img src="https://github.com/user-attachments/assets/acdd4508-b957-4bcf-a861-eb5a384c5b3e" width="500"/>
-
-![DeathlyDesignMenu](https://github.com/user-attachments/assets/fe14f4de-a6dd-4d13-a747-abed621a6261)
-![DeathlyDesignCutscene](https://github.com/user-attachments/assets/821c4e61-58fa-48a4-ab3e-ba0834e7357b)
-![DeathlyDesignMonsterMaker](https://github.com/user-attachments/assets/59093296-4d68-41c8-9989-61142ab693a5)
-![DeathlyDesignGameplay](https://github.com/user-attachments/assets/acdd4508-b957-4bcf-a861-eb5a384c5b3e)
