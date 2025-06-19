@@ -15,7 +15,7 @@ Humanity is dwindling, the world is in ruins, and society is on the verge of col
 1. Monster parts must look “eldritch” or absurd
 2. Game/art direction must not take itself very seriously
 3. Destruction must feel impactful and grandiose
-4. 
+   
 These were specifically chosen to inspire choices leading towards goofy yet horrific destruction.
 
 
