@@ -3,10 +3,8 @@
 # Deathly-Design
 A PC game where players can build their monster by choosing which upgrades and weapons thy want to equip. And then take their monster into the world and wreak havoc by destroying everything.
 
-Release build of Deathly Design
+This is a release build of Deathly Design. Unfortunately the code needs to stay private due to paid asset packs. 
 
-
-
+## Important Links
 Trailer for the game: https://www.youtube.com/watch?v=LQMK-05wKFk
 
-Unfortunately the code needs to stay private due to paid asset packs. 
